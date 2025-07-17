@@ -1,4 +1,4 @@
-# Viral Cortex - Autonomous AI Pentesting Agent
+# Viral Cortex - (Virtual Intelligence for Reconnaissance and Attack Logistics)
 
 **Viral Cortex** is an advanced, autonomous AI security analyst designed for offensive security operations. Powered by a Large Language Model (LLM), this agent can independently plan and execute a multi-step penetration testing methodology, from initial reconnaissance to vulnerability scanning and research. It was created by Viral and leverages powerful open-source tools to achieve its objectives.
 

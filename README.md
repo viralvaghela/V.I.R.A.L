@@ -4,6 +4,9 @@
 
 ---
 
+![Screenshot 1](assets/ss1.png)
+
+
 ## Ethical Disclaimer
 
 This tool is intended for **educational purposes and authorized security assessments only**. Running scans against systems or networks without explicit, written permission from the owner is illegal. The user assumes all responsibility for any actions performed using this tool. The creator, Viral, is not responsible for any misuse or damage.
